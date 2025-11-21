@@ -55,8 +55,13 @@ Ensure you have the following installed:
 ## Setup
 ### Clone the Repository
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/kaymen99/llm-web-scraper
 cd llm-web-scraper
+=======
+git clone https://github.com/daniellopez882/AI-Web-Scraper/
+cd AI-Web-Scraper
+>>>>>>> 4e7b98ebca3bfff85c8b849c0923ce1b92f3a270
 ```
 
 ### Create and Activate a Virtual Environment
